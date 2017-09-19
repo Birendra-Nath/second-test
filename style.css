@@ -1,0 +1,75 @@
+body { margin: 0; padding: 0; }
+
+body { font: 13px/1.2 "Myriad Pro", Helvetica, Arial, sans-serif; }
+
+.clear { clear: both; }
+
+/* grid style */
+
+.wrapper { width: 980px; margin: 0 auto; }
+
+.row {}
+
+.column { margin-right: 40px; float: left; }
+
+.column-1 { width: 45px; }
+
+.column-2 { width: 130px; }
+
+.column-3 { width: 215px; }
+
+.column-4 { width: 300px; }
+
+.column-5 { width: 385px; }
+
+.column-6 { width: 470px; }
+
+.column-7 { width: 555px; }
+
+.column-8 { width: 640px; }
+
+.column-9 { width: 725px; }
+
+.column-10 { width: 810px; }
+
+.column-11 { width: 895px; }
+
+.column-12 { width: 980px; }
+
+.last { margin-right:0px; }
+
+
+.header { background: #e8ebf1; height: 100px; }
+.logo { margin: 28px 0 0; padding:0; }
+.logo, .logo a  { width: 148px; height: 22px; display: block; }
+.logo a { background: url(images/name.png) 0 0 no-repeat; text-indent: -999999px; height: 45px; }
+
+.header ol { list-style: none; }
+.header ol, .header ol li { margin: 0; padding:0; }
+.header ol li { width: auto; float: right; }
+.header ol li a  { color: #000; text-decoration: none; line-height: 100px; margin-left: 40px; font-size: 16px; } 
+.header ol li a:hover { border-top: 2px solid #2aacc8; }
+
+ img { margin-top: 28px; }
+ h1 { font-size: 20px; font-family: Arial; margin-top: 30px; }
+.border { border-bottom: 1px solid #CCC; height: 70px; }
+
+.middle p { font-size: 14px; }
+.middle p a { color: #2aacc8; text-decoration: none; }
+label { font-size: 14px; font-family: arial; }
+.web-form input[type],textarea { width: 500px; }
+.web-form input[type] { height: 30px; }
+
+.h2, .h2 a { background: url(images/sub-button.png) 0 0 no-repeat; height: 50px; width: 120px; display: block; text-indent: -99999px;  }
+h2, h3, p { font-family: arial; }
+
+.footer { background: #e8ebf1; height:300px; border-top: 1px solid #CCC; margin-bottom: 20px; }
+.footer p { font-size:14px }
+.footer p, br  { margin-bottom: 10px; }
+.h3 { font-size: 20px; font-family: arial; }
+
+.socialicons  { background: url(images/social_icons.png) 0 0 no-repeat; width: 189px; height: 108px; }
+.socialicons, .socialicons a { width: 189px; height: 108px; display: block; text-indent: -9999px }
+
+.footer h1 { background: url(images/name.png)0 0 no-repeat; width: 150px; height: 50px; text-indent:-99999px; margin-left: 40px;  }
+.footer p { margin-top: 30px;} 
